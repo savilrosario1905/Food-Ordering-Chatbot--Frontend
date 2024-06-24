@@ -1,0 +1,142 @@
+[
+    {
+      "category": "starter",
+      "description": "Crispy chicken wings served with a choice of sauce.",
+      "id": 1,
+      "name": "Chicken Wings",
+      "price": 8.99
+    },
+    {
+      "category": "starter",
+      "description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic glaze.",
+      "id": 2,
+      "name": "Caprese Salad",
+      "price": 9.99
+    },
+    {
+      "category": "starter",
+      "description": "Toasted baguette slices brushed with garlic butter.",
+      "id": 3,
+      "name": "Garlic Bread",
+      "price": 6.99
+    },
+    {
+      "category": "soup",
+      "description": "Creamy soup made with fresh mushrooms and herbs.",
+      "id": 4,
+      "name": "Mushroom Soup",
+      "price": 7.99
+    },
+    {
+      "category": "soup",
+      "description": "Classic tomato soup infused with basil.",
+      "id": 5,
+      "name": "Tomato Basil Soup",
+      "price": 6.99
+    },
+    {
+      "category": "starter",
+      "description": "Grilled chicken, romaine lettuce, croutons, and Caesar dressing.",
+      "id": 6,
+      "name": "Chicken Caesar Salad",
+      "price": 11.99
+    },
+    {
+      "category": "maincourse",
+      "description": "Classic pizza topped with tomato sauce, fresh mozzarella, and basil.",
+      "id": 7,
+      "name": "Margherita Pizza",
+      "price": 12.99
+    },
+    {
+      "category": "maincourse",
+      "description": "Pasta with creamy egg sauce, pancetta, and Parmesan cheese.",
+      "id": 8,
+      "name": "Spaghetti Carbonara",
+      "price": 14.99
+    },
+    {
+      "category": "maincourse",
+      "description": "Assorted vegetables stir-fried in a savory sauce.",
+      "id": 9,
+      "name": "Vegetable Stir-Fry",
+      "price": 10.99
+    },
+    {
+      "category": "maincourse",
+      "description": "Juicy beef patty served on a toasted bun with lettuce, tomato, and onion.",
+      "id": 10,
+      "name": "Beef Burger",
+      "price": 13.99
+    },
+    {
+      "category": "maincourse",
+      "description": "Classic beef burger with melted cheese.",
+      "id": 11,
+      "name": "Cheeseburger",
+      "price": 14.99
+    },
+    {
+      "category": "maincourse",
+      "description": "Marinated chicken cooked in a traditional tandoor oven.",
+      "id": 12,
+      "name": "Tandoori Chicken",
+      "price": 14.99
+    },
+    {
+      "category": "desserts",
+      "description": "Sweet dumplings served in syrup, a traditional Indian dessert.",
+      "id": 13,
+      "name": "Gulab Jamun",
+      "price": 6.99
+    },
+    {
+      "category": "desserts",
+      "description": "Warm chocolate brownie served with vanilla ice cream.",
+      "id": 14,
+      "name": "Chocolate Brownie",
+      "price": 7.99
+    },
+    {
+      "category": "desserts",
+      "description": "Assorted fresh fruits served with honey-lime dressing.",
+      "id": 15,
+      "name": "Fruit Salad",
+      "price": 8.99
+    },
+    {
+      "category": "maincourse",
+      "description": "Tender lamb cooked in a spicy curry sauce.",
+      "id": 16,
+      "name": "Lamb Curry",
+      "price": 16.99
+    },
+    {
+      "category": "soup",
+      "description": "Creamy soup made with roasted pumpkin and spices.",
+      "id": 17,
+      "name": "Pumpkin Soup",
+      "price": 7.99
+    },
+    {
+      "category": "maincourse",
+      "description": "Chunks of chicken cooked in a creamy tomato sauce with spices.",
+      "id": 18,
+      "name": "Chicken Tikka Masala",
+      "price": 15.99
+    },
+    {
+      "category": "maincourse",
+      "description": "Crispy battered fish served with fries and tartar sauce.",
+      "id": 19,
+      "name": "Fish and Chips",
+      "price": 16.99
+    },
+    {
+      "category": "desserts",
+      "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+      "id": 20,
+      "name": "Tiramisu",
+      "price": 8.99
+    }
+  ]
